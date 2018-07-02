@@ -1,0 +1,1 @@
+include ':app', ':androidpulltorefresh', ':okhttputils', ':xutilsdb', ':viewpagerindicator', ':pickerviewlibrary', ':bubbleviewlibrary', ':updateapplibrary', ':wsmanager',':androidmpoldchart'

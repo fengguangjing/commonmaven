@@ -1,1 +1,1 @@
-include ':app', ':androidpulltorefresh', ':okhttputils', ':xutilsdb', ':viewpagerindicator', ':pickerviewlibrary', ':bubbleviewlibrary', ':updateapplibrary', ':wsmanager',':androidmpoldchart'
+include ':app', ':androidpulltorefresh', ':okhttputils', ':xutilsdb', ':viewpagerindicator', ':pickerviewlibrary', ':bubbleviewlibrary', ':updateapplibrary', ':wsmanager',':androidmpoldchart', ':andenginetasklibrary', ':androidindicatorlibrary', ':universalimageloaderlibrary', ':androidvolleylibrary', ':htmlspannerlibrary', ':androidtagviewlibrary'
